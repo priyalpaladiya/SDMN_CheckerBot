@@ -48,7 +48,7 @@ $messagesec",
 	'reply_to_message_id'=> $message_id,
     'reply_markup'=>json_encode(['inline_keyboard' => [
         [
-          ['text' => "💠 Created By 💠", 'url' => "t.me/ninjanaveen"]
+          ['text' => "💠 Created By 💠", 'url' => "t.me/Pure_Noob"]
         ],
         [
           ['text' => "💎 Source Code 💎", 'url' => "t.me/IndianBotsChat"]
